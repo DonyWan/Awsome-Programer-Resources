@@ -1,4 +1,4 @@
-Awesome-MaterialDesign
+Awesome Resources
 ==================
 
 A curated list of awesome Android MaterialDesign res and libraries. Feel free to contrubute.
