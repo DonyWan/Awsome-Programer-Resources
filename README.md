@@ -1,2 +1,0 @@
-# teach
-Awsome document
